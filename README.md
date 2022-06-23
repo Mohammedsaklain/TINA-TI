@@ -1,3 +1,5 @@
 # TINA-TI
 This repo contains some circuits simulated in TINA-TI software
-<img src="C:\Users\QURATH\Desktop\mohammed saqlain" width="250" height="250" />
+
+<img src="<img width="279" alt="imageWLI" src="https://user-images.githubusercontent.com/85921230/175321992-f4aeeac7-8d90-42fa-8c35-a185ae08136d.png">
+" width="250" height="250" />
